@@ -1,2 +1,4 @@
 # alpha
-it is a good repositery
+HI!
+How are you doing?
+You got a problem ask me ;)
